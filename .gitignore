@@ -1,3 +1,4 @@
 .dockerignore
 .vscode
+.gitigonre
 venv
